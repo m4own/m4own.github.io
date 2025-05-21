@@ -38,7 +38,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'unknown',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -55,9 +55,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.caslu.fr',
+    website: '',
     phone: '',
-    email: 'main.mx@caslu.fr',
+    email: '',
   },
   resume: {
     fileUrl:
@@ -83,16 +83,16 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'CrowdSec',
-      body: 'CrowdSec - Fundamentals',
-      year: 'October 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
     {
-      name: 'TryHackme',
-      body: 'PreSecurity - Path',
-      year: 'February 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
