@@ -64,7 +64,7 @@ const CONFIG = {
       'dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'Low-level programming',
     'RHEL',
     'Audit/Pentesting',
     'Networking',
@@ -123,7 +123,7 @@ const CONFIG = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
     //false by default
 
     // Should use the prefers-color-scheme media-query,
